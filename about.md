@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Kimberly.  I'm a Front-End Web Developer based in Dallas, TX.
+Hi, my name is Kimberly.  I'm a Web Developer based in Dallas, TX.
 
 ### More Information
 
