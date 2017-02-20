@@ -17,7 +17,7 @@ Road block number two is that I felt that I was WAY in over my head.  My team wa
 
 1. Learn basic Github commands.  This was our first time working with our own branches and merging them with master, pulling the changes, etc. It took a little bit to figure out the flow of github within a team context.
 
-2.Work in pairs/pair program your features together.  I feel that one of the biggest challenges came when we each tried to take one page of our app vs having two people work on a page together.  Towards the end, we began working together/pairing and things got much easier.  I truly saw the value in working as a team for a common goal that day.
+2. Work in pairs/pair program your features together.  I feel that one of the biggest challenges came when we each tried to take one page of our app vs having two people work on a page together.  Towards the end, we began working together/pairing and things got much easier.  I truly saw the value in working as a team for a common goal that day.
 
 3. You meet great people at hackahtons.  By the end of the day I met a lot of great developers in the area and have since seen a few people at various meetups.  Also a few of us created a coding group where we make projects together, I'll explain that in a future post.
 
