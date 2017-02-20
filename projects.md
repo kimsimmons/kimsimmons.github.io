@@ -7,7 +7,7 @@ permalink: /projects/
 <h3>Tribute Page</h3>
 I created a tribute page highlighting the musical career of Michael Jackson.  
 
-Technologies used: HTML, CSS, Bootstrap
+Technologies: HTML, CSS, Bootstrap
 
 [![Michael Jackson Tribute Page](/images/mj.png)](http://codepen.io/kimsim/pen/QdvNjK){:target="_blank"}
 
