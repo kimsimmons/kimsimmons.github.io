@@ -1,5 +1,3 @@
-<h1>Reflecting on My First Hackathon</h1>
-
 It's been a few months since I attended my first hackathon.  It was a hackathon specifically for those who are new to coding and wanted to try to get their feet wet by building an app at a hackathon.
 
 The hackathon had around 50 participants, male and female.  After wandering around the room looking for a team to join, I was graciously brought in to a team of local coding bootcamp students.  They were super supportive and welcoming to me eventhough I only knew HTML, CSS and a little javascript, no back end.  The app we created was in Ruby on Rails.  
