@@ -35,4 +35,4 @@ Technologies: HTML, CSS, Sass, Jekyll (Static Site Generator built in Ruby)
 
 <hr>
 <h3>Code Snippets</h3>
-All code snippets from projects can be found on my [github](https://github.com/kimsimmons/Projects) or [codepen](http://codepen.io/kimsim/#).
+All code snippets from projects can be found on my [github](https://github.com/kimsimmons) or [codepen](http://codepen.io/kimsim/#).
