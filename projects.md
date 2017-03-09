@@ -11,6 +11,8 @@ Technologies: HTML, CSS, Bootstrap, Font Awesome, Google Fonts
 
 [![Travel Match](/images/travel.png)](http://codepen.io/kimsim/full/jByKYj/){:target="_blank"}
 
+[Click here to view the project](http://codepen.io/kimsim/full/jByKYj/)
+
 <hr>
 <br>
 <h3>Tribute Page</h3>
@@ -20,7 +22,7 @@ Technologies: HTML, CSS, Bootstrap
 
 [![Michael Jackson Tribute Page](/images/mj.png)](http://codepen.io/kimsim/full/QdvNjK/){:target="_blank"}
 
-[Click here to view the project](http://codepen.io/kimsim/pen/QdvNjK)
+[Click here to view the project](http://codepen.io/kimsim/full/QdvNjK/)
 
 <hr>
 <br>
